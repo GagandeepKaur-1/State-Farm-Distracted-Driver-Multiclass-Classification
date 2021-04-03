@@ -19,4 +19,4 @@ Model Architecture : Deep Learning using CNN
 About Data Set The Data set is images of different people in a driver seat doing different things. Data set already divided into Train and Test by folders.
 
 Train Data - Has Classes as subfolders and each subfolder has images of only corresponding Class.
-Test Data - Has images of all the classes.
+Test Data - Has images of all the classes.  
